@@ -1,5 +1,5 @@
 # 动手学深度学习PyTorch版--大作业--Fashion-mnist分类任务
-目前最高得分为 **0.9528**
+目前最高得分为 **0.9547**
 
 ## 背景介绍
 参考【我的博客地址】https://blog.csdn.net/sinat_29950703/article/details/104589911
@@ -115,5 +115,7 @@ epoch 114, loss 0.0006, train acc 1.0000, test acc 0.9528, time 186.4 sec
 find best! save at model/best.pth
 ...
 ...
+epoch 180, loss 0.0011, train acc 1.0000, test acc 0.9547, time 173.8 sec
+find best! save at model/best.pth
 ```  
 【注】待3月1日24时后，再上传完整的训练代码和scv文件
