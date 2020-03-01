@@ -18,11 +18,11 @@
     os.system(tar_str4)  
     ```
 ### 1.2 将训练集的ubyte文件转化为图片
-将Fashion-mnist训练集的10个种类分在0-9共10个文件夹下
-详见ubyte_to_image.py
+将Fashion-mnist训练集的10个种类分在0-9共10个文件夹下  
+详见ubyte_to_img_train.py
 ### 1.3 将测试集的ubyte文件转化为图片
-将Fashion-mnist测试集的10个种类分在0-9共10个文件夹下
-详见ubyte_to_image2.py
+将Fashion-mnist测试集的10个种类分在0-9共10个文件夹下    
+详见ubyte_to_img_test.py
 ## 2.数据准备
 ### 2.1调整输入的归一化系数
 计算整个数据集的归一化系数
