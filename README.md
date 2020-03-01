@@ -1,4 +1,6 @@
 # 动手学深度学习PyTorch版--大作业--Fashion-mnist分类任务
+目前最高得分为 **0.9528**
+
 ## 背景介绍
 参考【我的博客地址】https://blog.csdn.net/sinat_29950703/article/details/104589911
 ## 目录
