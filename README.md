@@ -1,7 +1,12 @@
 # 动手学深度学习PyTorch版--大作业--Fashion-mnist分类任务
 ## 背景介绍
 参考【我的博客地址】https://blog.csdn.net/sinat_29950703/article/details/104589911
-
+## 目录
+准备4个文件夹  
+- raw_data: 用于存放ubyte.gz原文件，解压完也在此文件夹下  
+- mnist_train: 存放训练集的0-9共10个文件夹  
+- mnist_test: 存放测试集的0-9共10个文件  
+- model: 存放训练好的h5模型  
 ## 1.文件预处理
 ### 1.1 解压ubyte文件
 - window上:  直接解压
@@ -89,7 +94,7 @@ def train_model(net, train_iter, test_iter, batch_size, optimizer, device, num_e
 ```
 
 ## 3.训练和测试同时进行
-【网络模型】ResNet18的迁移学习
+【网络模型】ResNet18的迁移学习  
 打印结果预览
 ```python
 training on  cuda:0
