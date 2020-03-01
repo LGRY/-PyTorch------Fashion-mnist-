@@ -113,4 +113,5 @@ epoch 114, loss 0.0006, train acc 1.0000, test acc 0.9528, time 186.4 sec
 find best! save at model/best.pth
 ...
 ...
-```
+```  
+【注】待3月1日24时后，再上传完整的训练代码和scv文件
